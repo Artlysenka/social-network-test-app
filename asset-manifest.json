@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Artlysenka/social-network-test-app.git/static/css/main.eae45042.chunk.css",
+    "main.js": "/Artlysenka/social-network-test-app.git/static/js/main.12a34267.chunk.js",
+    "main.js.map": "/Artlysenka/social-network-test-app.git/static/js/main.12a34267.chunk.js.map",
+    "runtime-main.js": "/Artlysenka/social-network-test-app.git/static/js/runtime-main.d6ff13c2.js",
+    "runtime-main.js.map": "/Artlysenka/social-network-test-app.git/static/js/runtime-main.d6ff13c2.js.map",
+    "static/css/2.00850458.chunk.css": "/Artlysenka/social-network-test-app.git/static/css/2.00850458.chunk.css",
+    "static/js/2.c9f22a66.chunk.js": "/Artlysenka/social-network-test-app.git/static/js/2.c9f22a66.chunk.js",
+    "static/js/2.c9f22a66.chunk.js.map": "/Artlysenka/social-network-test-app.git/static/js/2.c9f22a66.chunk.js.map",
+    "static/css/3.78f38823.chunk.css": "/Artlysenka/social-network-test-app.git/static/css/3.78f38823.chunk.css",
+    "static/js/3.a3d8183b.chunk.js": "/Artlysenka/social-network-test-app.git/static/js/3.a3d8183b.chunk.js",
+    "static/js/3.a3d8183b.chunk.js.map": "/Artlysenka/social-network-test-app.git/static/js/3.a3d8183b.chunk.js.map",
+    "static/css/4.59eb8f8f.chunk.css": "/Artlysenka/social-network-test-app.git/static/css/4.59eb8f8f.chunk.css",
+    "static/js/4.b09dd3fb.chunk.js": "/Artlysenka/social-network-test-app.git/static/js/4.b09dd3fb.chunk.js",
+    "static/js/4.b09dd3fb.chunk.js.map": "/Artlysenka/social-network-test-app.git/static/js/4.b09dd3fb.chunk.js.map",
+    "static/js/5.8f50d87d.chunk.js": "/Artlysenka/social-network-test-app.git/static/js/5.8f50d87d.chunk.js",
+    "static/js/5.8f50d87d.chunk.js.map": "/Artlysenka/social-network-test-app.git/static/js/5.8f50d87d.chunk.js.map",
+    "index.html": "/Artlysenka/social-network-test-app.git/index.html",
+    "static/css/2.00850458.chunk.css.map": "/Artlysenka/social-network-test-app.git/static/css/2.00850458.chunk.css.map",
+    "static/css/3.78f38823.chunk.css.map": "/Artlysenka/social-network-test-app.git/static/css/3.78f38823.chunk.css.map",
+    "static/css/4.59eb8f8f.chunk.css.map": "/Artlysenka/social-network-test-app.git/static/css/4.59eb8f8f.chunk.css.map",
+    "static/css/main.eae45042.chunk.css.map": "/Artlysenka/social-network-test-app.git/static/css/main.eae45042.chunk.css.map",
+    "static/js/2.c9f22a66.chunk.js.LICENSE.txt": "/Artlysenka/social-network-test-app.git/static/js/2.c9f22a66.chunk.js.LICENSE.txt",
+    "static/media/defaultAvatar.png": "/Artlysenka/social-network-test-app.git/static/media/defaultAvatar.0334f4b4.png",
+    "static/media/loaderSVG.2997ce57.svg": "/Artlysenka/social-network-test-app.git/static/media/loaderSVG.2997ce57.svg",
+    "static/media/networkLogo.e95a8eba.png": "/Artlysenka/social-network-test-app.git/static/media/networkLogo.e95a8eba.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6ff13c2.js",
+    "static/css/2.00850458.chunk.css",
+    "static/js/2.c9f22a66.chunk.js",
+    "static/css/main.eae45042.chunk.css",
+    "static/js/main.12a34267.chunk.js"
+  ]
+}
